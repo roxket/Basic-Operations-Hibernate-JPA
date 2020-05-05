@@ -1,0 +1,4 @@
+com\roxket\DAO\PersonaDAO.class
+test\HolaMundoHibernate.class
+test\OperacionesHibernateJPA.class
+com\roxket\domain\Persona.class
